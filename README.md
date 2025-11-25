@@ -8,22 +8,22 @@ The primary objective of this system is to improve the accuracy, reliability, an
 ---
 FEATURES
 
-Patient Registration & Management
+PATIENT REGIESTRATION & MANAGEMENT
 - Add, update, search, and manage complete patient details.
 
-Doctor & Staff Management
+DOCTOR & STAFF MANAGEMENT
 - Maintain employee records, login credentials, and role-based access.
 
-Appointment Handling
+APPOINTMENT HANDLING
 - Schedule, update, and track patient appointments.
 
-Database Integration
+DATABASE INTEGRATION
 - Uses SQL for secure and structured storage of all hospital-related information.
 
-User-Friendly Interface
+USER-FRIENDLY INTERFACE
 - Built using Java Swing to provide an intuitive and responsive GUI.
 
-Secure Authentication
+SECURE AUTHENTICATION
 - Validates login for different roles such as Doctor, Staff, and Admin.
 
 ---
