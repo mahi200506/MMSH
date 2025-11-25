@@ -1,8 +1,7 @@
 HOSPITAL ADMINISTRATION SYSTEM
 
 PROJECT DESCRIPTION:   
-
-          The Hospital Administration System (HAS) is an integrated software solution designed to simplify and automate essential hospital operations. The application helps hospital staff efficiently handle patient details, doctor and employee records, appointments, and administrative activities through a clean and user-friendly interface. This system reduces manual workload, eliminates data redundancy, and ensures faster access to patient and staff information.
+     The Hospital Administration System (HAS) is an integrated software solution designed to simplify and automate essential hospital operations. The application helps hospital staff efficiently handle patient details, doctor and employee records, appointments, and administrative activities through a clean and user-friendly interface. This system reduces manual workload, eliminates data redundancy, and ensures faster access to patient and staff information.
 
 The primary objective of this system is to improve the accuracy, reliability, and speed of hospital management tasks. It offers secure login access for doctors and staff, organized data storage using SQL, and smooth navigation through Java Swing components.
 
