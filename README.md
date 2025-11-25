@@ -29,6 +29,7 @@ Secure Authentication
 ---
 
 PROJECT STRUCTURE
+
 Hospital-Administration-System/
 │
 ├── src/ # Java source code files
