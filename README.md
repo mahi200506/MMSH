@@ -1,11 +1,12 @@
-Hospital Administration System
-Project Description
+HOSPITAL ADMINISTRATION SYSTEM
 
-The Hospital Administration System (HAS) is an integrated software solution designed to simplify and automate essential hospital operations. The application helps hospital staff efficiently handle patient details, doctor and employee records, appointments, and administrative activities through a clean and user-friendly interface. This system reduces manual workload, eliminates data redundancy, and ensures faster access to patient and staff information.
+PROJECT DESCRIPTION:            
+          The Hospital Administration System (HAS) is an integrated software solution designed to simplify and automate essential hospital operations. The application helps hospital staff efficiently handle patient details, doctor and employee records, appointments, and administrative activities through a clean and user-friendly interface. This system reduces manual workload, eliminates data redundancy, and ensures faster access to patient and staff information.
 
 The primary objective of this system is to improve the accuracy, reliability, and speed of hospital management tasks. It offers secure login access for doctors and staff, organized data storage using SQL, and smooth navigation through Java Swing components.
 
-Features
+FEATURES:
+
 Patient Registration & Management:
 
 Add, update, search, and manage complete patient details.
@@ -14,23 +15,24 @@ Doctor & Staff Management:
 
 Maintain employee records, login credentials, and role-based access.
 
-Appointment Handling:
+APPOINTMENT HANDLING:
 
 Schedule, update, and track patient appointments.
 
-Database Integration:
+DATABASE INTEGRATION:
 
 Uses SQL for secure and structured storage of all hospital-related information.
 
-User-Friendly Interface:
+USER-FRIENDLY INTERFACE:
 
 Built using Java Swing to provide an intuitive and responsive GUI.
 
-Secure Authentication:
+SECURE AUTHENTICATION:
 
 Validates login for different roles such as Doctor, Staff, and Admin.
 
-Project Structure
+PROJECT STRUCTURE:
+
 Hospital-Administration-System/
 │
 ├── src/               # Java source code files
@@ -39,7 +41,7 @@ Hospital-Administration-System/
 ├── screenshots/       # Screenshots of the application interface
 └── README.md          # Complete project documentation
 
-Installation & Setup
+INSTALLATION & SETUP:
 
 Download or clone the repository.
 
@@ -51,13 +53,13 @@ Update your database connection URL, username, and password in the code (if requ
 
 Build and run the project to launch the application.
 
-Usage
+USAGE:
 
 Run the project from NetBeans.
 
 Login using valid doctor or staff credentials.
 
-Use the menu navigation to manage:
+USE THE MENU NAVIGATION TO MANAGE:
 
 Patients
 
@@ -77,11 +79,11 @@ SQL Database
 
 NetBeans IDE 8.0.2
 
-Author
+AUTHOR:
 
 Maheshvari S
 Final Year – B.Sc. Computer Technology Student
 
-License
+LICENSE:
 
 This project is developed exclusively for hospital-related use.
