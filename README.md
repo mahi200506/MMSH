@@ -55,7 +55,7 @@ USAGE
 - Run the project from NetBeans.
 - Login using valid doctor or staff credentials.
 
-USE THE MENU NAVIGATION TO MANAGE:
+USE THE MENU NAVIGATION TO MANAGE
 - Patients  
 - Appointments  
 - Doctors & Employees  
