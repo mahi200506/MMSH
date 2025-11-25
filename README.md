@@ -6,23 +6,28 @@ The Hospital Administration System (HAS) is an integrated software solution desi
 The primary objective of this system is to improve the accuracy, reliability, and speed of hospital management tasks. It offers secure login access for doctors and staff, organized data storage using SQL, and smooth navigation through Java Swing components.
 
 Features
-
 Patient Registration & Management:
+
 Add, update, search, and manage complete patient details.
 
 Doctor & Staff Management:
+
 Maintain employee records, login credentials, and role-based access.
 
 Appointment Handling:
+
 Schedule, update, and track patient appointments.
 
 Database Integration:
+
 Uses SQL for secure and structured storage of all hospital-related information.
 
 User-Friendly Interface:
+
 Built using Java Swing to provide an intuitive and responsive GUI.
 
 Secure Authentication:
+
 Validates login for different roles such as Doctor, Staff, and Admin.
 
 Project Structure
@@ -74,9 +79,9 @@ NetBeans IDE 8.0.2
 
 Author
 
-Maheshvari
+Maheshvari S
 Final Year – B.Sc. Computer Technology Student
 
 License
 
-This project is developed exclusively for hospital-related use.
+This project is developed exclusively for hospital-related use
